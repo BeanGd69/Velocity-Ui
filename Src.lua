@@ -685,7 +685,7 @@ function Library:CreateWindow()
     StatisticsImage_1.BorderColor3 = Color3.fromRGB(0, 0, 0)
     StatisticsImage_1.BorderSizePixel = 0
     StatisticsImage_1.Size = UDim2.new(0, 50, 0, 50)
-    StatisticsImage_1.Image = "rbxassetid://127376982190477"
+    StatisticsImage_1.Image = "rbxassetid://6319951718"
 
     UICorner_15.Parent = StatisticsImage_1
 
