@@ -685,7 +685,7 @@ function Library:CreateWindow()
     StatisticsImage_1.BorderColor3 = Color3.fromRGB(0, 0, 0)
     StatisticsImage_1.BorderSizePixel = 0
     StatisticsImage_1.Size = UDim2.new(0, 50, 0, 50)
-    StatisticsImage_1.Image = "rbxassetid://73794888783024"
+    StatisticsImage_1.Image = "rbxassetid://131792026215657"
 
     UICorner_15.Parent = StatisticsImage_1
 
@@ -698,7 +698,7 @@ function Library:CreateWindow()
     StatisticsText_1_1.Size = UDim2.new(0, 209, 0, 40)
     StatisticsText_1_1.Font = Enum.Font.Ubuntu
     StatisticsText_1_1.RichText = true
-    StatisticsText_1_1.Text = "<b>Legends Of Speed</b>"
+    StatisticsText_1_1.Text = "<b>L[🎃 Halloween EVENT] Anime Simulator</b>"
     StatisticsText_1_1.TextColor3 = Color3.fromRGB(220, 220, 220)
     StatisticsText_1_1.TextSize = 15
     StatisticsText_1_1.TextXAlignment = Enum.TextXAlignment.Left
@@ -716,7 +716,7 @@ function Library:CreateWindow()
     StatisticsText_2_1.Size = UDim2.new(0, 209, 0, 40)
     StatisticsText_2_1.Font = Enum.Font.Ubuntu
     StatisticsText_2_1.RichText = true
-    StatisticsText_2_1.Text = "<b>4/22/2019</b>"
+    StatisticsText_2_1.Text = "<b>4/28/24</b>"
     StatisticsText_2_1.TextColor3 = Color3.fromRGB(220, 220, 220)
     StatisticsText_2_1.TextSize = 14
     StatisticsText_2_1.TextXAlignment = Enum.TextXAlignment.Left
@@ -734,7 +734,7 @@ function Library:CreateWindow()
     StatisticsText_3_1.Size = UDim2.new(0, 209, 0, 40)
     StatisticsText_3_1.Font = Enum.Font.Ubuntu
     StatisticsText_3_1.RichText = true
-    StatisticsText_3_1.Text = "<b>Scriptbloxian Studios</b>"
+    StatisticsText_3_1.Text = "<b>Bick Boizz</b>"
     StatisticsText_3_1.TextColor3 = Color3.fromRGB(220, 220, 220)
     StatisticsText_3_1.TextSize = 14
     StatisticsText_3_1.TextXAlignment = Enum.TextXAlignment.Left
@@ -752,7 +752,7 @@ function Library:CreateWindow()
     StatisticsText_4_1.Size = UDim2.new(0, 209, 0, 40)
     StatisticsText_4_1.Font = Enum.Font.Ubuntu
     StatisticsText_4_1.RichText = true
-    StatisticsText_4_1.Text = "<b>Incremental Simulator</b>"
+    StatisticsText_4_1.Text = "<b>Simulator</b>"
     StatisticsText_4_1.TextColor3 = Color3.fromRGB(220, 220, 220)
     StatisticsText_4_1.TextSize = 14
     StatisticsText_4_1.TextXAlignment = Enum.TextXAlignment.Left
@@ -770,7 +770,7 @@ function Library:CreateWindow()
     StatisticsText_5_1.Size = UDim2.new(0, 209, 0, 40)
     StatisticsText_5_1.Font = Enum.Font.Ubuntu
     StatisticsText_5_1.RichText = true
-    StatisticsText_5_1.Text = "<b>3101667897</b>"
+    StatisticsText_5_1.Text = "<b>17316900493</b>"
     StatisticsText_5_1.TextColor3 = Color3.fromRGB(220, 220, 220)
     StatisticsText_5_1.TextSize = 14
     StatisticsText_5_1.TextXAlignment = Enum.TextXAlignment.Left
