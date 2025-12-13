@@ -685,7 +685,7 @@ function Library:CreateWindow()
     StatisticsImage_1.BorderColor3 = Color3.fromRGB(0, 0, 0)
     StatisticsImage_1.BorderSizePixel = 0
     StatisticsImage_1.Size = UDim2.new(0, 50, 0, 50)
-    StatisticsImage_1.Image = "rbxassetid://131792026215657"
+    StatisticsImage_1.Image = "rbxassetid://104749162411934"
 
     UICorner_15.Parent = StatisticsImage_1
 
@@ -698,7 +698,7 @@ function Library:CreateWindow()
     StatisticsText_1_1.Size = UDim2.new(0, 209, 0, 40)
     StatisticsText_1_1.Font = Enum.Font.Ubuntu
     StatisticsText_1_1.RichText = true
-    StatisticsText_1_1.Text = "<b>L[🎃 Halloween EVENT] Anime Simulator</b>"
+    StatisticsText_1_1.Text = "<b>🎃Anime Simulator</b>"
     StatisticsText_1_1.TextColor3 = Color3.fromRGB(220, 220, 220)
     StatisticsText_1_1.TextSize = 15
     StatisticsText_1_1.TextXAlignment = Enum.TextXAlignment.Left
