@@ -554,7 +554,7 @@ function Library:CreateWindow()
     InformationImage_1.BorderSizePixel = 0
     InformationImage_1.Position = UDim2.new(0, 5, 0, 5)
     InformationImage_1.Size = UDim2.new(0, 40, 0, 40)
-    InformationImage_1.Image = "rbxassetid://92715042948482"
+    InformationImage_1.Image = "rbxassetid://6319951718"
 
     InformationText_1_1.Name = "InformationText_1"
     InformationText_1_1.Parent = InformationFrame_1
